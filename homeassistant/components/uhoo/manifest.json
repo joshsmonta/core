@@ -3,7 +3,7 @@
   "name": "uHoo",
   "codeowners": ["@getuhoo", "@joshsmonta"],
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/uhooair",
+  "documentation": "https://www.home-assistant.io/integrations/uhoo",
   "iot_class": "cloud_polling",
   "quality_scale": "bronze",
   "requirements": ["uhooapi==1.2.6"]
